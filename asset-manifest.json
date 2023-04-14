@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookworm/static/css/main.edd8fcd5.css",
-    "main.js": "/bookworm/static/js/main.d5faeb4d.js",
+    "main.js": "/bookworm/static/js/main.f66c7ffa.js",
     "static/media/about-img.jpg": "/bookworm/static/media/about-img.1db902362ff03bd6d05b.jpg",
     "static/media/cover_not_found.jpg": "/bookworm/static/media/cover_not_found.ed8325a6a47df793d36c.jpg",
     "static/media/library-img.jpg": "/bookworm/static/media/library-img.ab8b3a4cfb8a29c7bdfb.jpg",
@@ -9,10 +9,10 @@
     "static/media/loader.svg": "/bookworm/static/media/loader.bcf03f42effefca79769d50789da422e.svg",
     "index.html": "/bookworm/index.html",
     "main.edd8fcd5.css.map": "/bookworm/static/css/main.edd8fcd5.css.map",
-    "main.d5faeb4d.js.map": "/bookworm/static/js/main.d5faeb4d.js.map"
+    "main.f66c7ffa.js.map": "/bookworm/static/js/main.f66c7ffa.js.map"
   },
   "entrypoints": [
     "static/css/main.edd8fcd5.css",
-    "static/js/main.d5faeb4d.js"
+    "static/js/main.f66c7ffa.js"
   ]
 }
