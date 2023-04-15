@@ -11,9 +11,9 @@ import BookDetails from "./components/BookDetails/BookDetails";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
     <AppProvider>
-        <BrowserRouter basename="/bookworm">
+        <BrowserRouter>
             <Routes>
-                <Route path="/bookworm" element={<Home />}>
+                <Route path="/" element={<Home />}>
                     <Route path="/about" element={<About />} />
                     <Route path="/book" element={<BookList />} />
                     <Route path="/book/:id" element={<BookDetails />} />
